@@ -1,0 +1,19 @@
+{
+  "name": "feu",
+  "version": "1.0.0",
+  "description": "Front End Utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeachco/feu.git"
+  },
+  "author": "Olivier Rousseau-Guyot",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/zeachco/feu/issues"
+  },
+  "homepage": "https://github.com/zeachco/feu#readme"
+}
